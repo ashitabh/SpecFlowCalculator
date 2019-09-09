@@ -19,6 +19,18 @@
 5. You will see a new tab labeled Private. Select the tab.
 ![](./images/devops3.png)
 
+6. Upload Template
+* option A) Local Drive: [download devops template](https://github.com/fnbk/SpecFlowCalculator/blob/master/AzureDevOpsTemplate.zip)
+* option B) GitHub: `https://raw.githubusercontent.com/fnbk/SpecFlowCalculator/master/AzureDevOpsTemplate.zip`
+
+7. Create Project
+
+8. visit your new AzureDevOps project and create new build 
+![](./images/devops7.png)
+
+
+
+
 
 
 
